@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20AFE5A8-E80A-44F0-87E3-1670C88C80BB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1482FC68-227E-4D79-8FD6-4CB56DF30460"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mgck 8-Ball/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1482FC68-227E-4D79-8FD6-4CB56DF30460 - 7b7ff17bcd438ff4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.AppDelegate.__allocating_init() -&gt; Mgck_8_Ball.AppDelegate"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "1482FC68-227E-4D79-8FD6-4CB56DF30460 - a3966ef07cc976d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.AppDelegate.init() -&gt; Mgck_8_Ball.AppDelegate"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "1482FC68-227E-4D79-8FD6-4CB56DF30460 - 583adb7d72f9f73f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.AppDelegate.__deallocating_deinit"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1482FC68-227E-4D79-8FD6-4CB56DF30460 - 9a49475f9862ea3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "7">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27098E12-2832-41FD-AC2C-F3B1B863DC3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mgck 8-Ball/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "27098E12-2832-41FD-AC2C-F3B1B863DC3A - 59e0cb9fd9e3bdb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.answers.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "27098E12-2832-41FD-AC2C-F3B1B863DC3A - 9475b80b74bd14c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Mgck_8_Ball.ViewController"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "27098E12-2832-41FD-AC2C-F3B1B863DC3A - 357f059058fb0866"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Mgck_8_Ball.ViewController&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mgck 8-Ball/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - 730ef515f7921d1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.answerLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - c8965ae7da98190b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.answerLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - 7b0454635614821a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.answerLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - 9b6096a27abdba4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.answerLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - 9475b80b74bd1501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Mgck_8_Ball.ViewController"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "8DE0588C-7856-48AF-AD30-0FE3D6584D14 - 357f059058fb09a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mgck_8_Ball.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Mgck_8_Ball.ViewController&gt;"
+                  moduleName = "Mgck 8-Ball"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cherish/Desktop/xcode/Mgck%208-Ball/Mgck%208-Ball/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "805">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF023BD-9185-4BC8-A7D6-D60F082AB2C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mgck 8-Ball/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
